@@ -1,3 +1,1 @@
-# hello-world
-Beginning repository
-The changes are minor but necessary for development
+This website is a simple hello world. 
